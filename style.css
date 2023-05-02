@@ -1,0 +1,17 @@
+#title{
+    text-align: center;
+}
+#on-bulb{
+    width: 150px;
+    float: left;
+    
+}
+#off-bulb{
+    width: 150px;
+    float: right;
+}
+.container{
+    justify-content: center;
+    display: flex;
+    margin-top: 100px;
+}
